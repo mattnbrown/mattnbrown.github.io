@@ -24,20 +24,16 @@ body {
 }
 
 /* Customize container */
-@media (min-width: 768px) {
-  .container {
-    max-width: 800px;
-  }
-}
-.container-narrow > hr {
-  margin: 30px 0;
+.container {
+  max-width: 800px;
 }
 
-/* main container */
-.maincontainer {
-  border-bottom: 1px solid #e5e5e5;
+/* styles */
+.bodycontent1 {
+  line-height: 1.5;
+  font-size: 16px;
 }
 
-.maincontainer h1 {
-  font-size: 2em;
+.bodycontent1 h1 {
+  font-size: 22px;
 }
