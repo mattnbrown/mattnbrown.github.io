@@ -1,39 +1,57 @@
-/* Space out content a bit */
+/* Matt's super uber style sheet! */
+
+/* setup some spacing */
 body {
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-.header,
-.footer {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-/* Custom page header */
+/* header stuff */
 .header {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
   border-bottom: 1px solid #e5e5e5;
 }
 
-/* Custom page footer */
-.footer {
-  padding-top: 19px;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
+.header a { ext-decoration: none; color: #999; font-weight: bold;}
+.header a:hover { color: #999 }
+
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
 }
 
-/* Customize container */
+/* footer stuff */
+.footer {
+  padding-top: 10px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+}
+
+.footer a { ext-decoration: none; color: #999; font-weight: bold;}
+.footer a:hover { text-decoration: underline; }
+
+/* base container */
 .container {
   max-width: 800px;
 }
 
-/* styles */
-.bodycontent1 {
-  line-height: 1.5;
+/* style stuff */
+.body {
+  line-height: 1.;
   font-size: 16px;
 }
 
-.bodycontent1 h1 {
+.body h1 {
   font-size: 22px;
+}
+
+ul.posts {
+    margin: 10px auto 20px;
+    font-size: 16px;
+}
+
+ul.posts li {
+    list-style: none;
 }
