@@ -31,7 +31,7 @@ body {
 }
 
 .footer a { ext-decoration: none; color: #93a1a1; font-weight: bold;}
-.footer a:hover { text-decoration: underline; }
+.footer a:hover { text-decoration: underline; color: #93a1a1 }
 
 /* base container */
 .container {
@@ -48,14 +48,27 @@ body {
   font-size: 22px;
 }
 
+.home {
+    text-decoration: none;
+    font-size: 15px;
+    color: #073642;
+}
+
+.home a { text-decoration: none; color: #b58900; }
+.home a:hover { text-decoration: underline; color: #b58900; }
+
 ul.posts {
-    margin: 10px auto 20px;
-    font-size: 16px;
+    margin: 5px auto 10px;
+    font-size: 15px;
+    color: #073642;
 }
 
 ul.posts li {
     list-style: none;
 }
+
+ul.posts a { color: #b58900; }
+ul.posts a:hover { text-decoration: underline; color: #b58900; }
 
 .about {
     text-decoration: none;
@@ -82,3 +95,18 @@ ul.connections li {
 
 .connections a { text-decoration: none; color: #93a1a1; font-weight: bold; }
 .connections a:hover { text-decoration: underline; color: #93a1a1; }
+
+.meta { font-style: italic; }
+
+.post {
+  text-decoration: none;
+  font-size: 15px;
+  color: #073642;
+}
+
+.post a { text-decoration: none; color: #b58900; }
+.post a:hover { text-decoration: underline; color: #b58900; }
+
+.postcontent {
+  margin-bottom: 20px;
+}
