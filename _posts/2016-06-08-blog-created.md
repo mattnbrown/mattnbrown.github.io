@@ -11,7 +11,8 @@ Lets see if I keep this one updated...
 So I thought the domain `apii.io` was a little different from the domain I have been using for over 10years! And well `.io` is just cool, right?!
 
 Notes to self
+
 - Use markdown to create blogposts and not html..!
 - Keep this update (ha!)
 
-Markdown seems a little broken!
+Markdown seems a little broken, well not normal with this github/jekyll setup!
