@@ -76,6 +76,12 @@ ul.posts a:hover { text-decoration: underline; color: #b58900; }
     color: #073642;
 }
 
+.aboutdo {
+  text-decoration: none;
+  font-size: 13px;
+  color: #586e75;
+}
+
 ul.connections {
     margin: 30px auto 20px;
     font-size: 16px;
