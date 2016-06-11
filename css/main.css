@@ -55,3 +55,23 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.connections {
+    margin: 10px auto 20px;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+ul.connections li {
+    list-style: none;
+    display: inline;
+    margin-left: 50px;
+}
+
+.connections i {
+  padding-right: 10px;
+  font-size: 30px;
+}
+
+.connections a { text-decoration: none; color: #999; font-weight: bold; }
+.connections a:hover { text-decoration: underline; color: #999; }
