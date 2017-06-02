@@ -2,7 +2,7 @@
 layout: post
 title: "New Project! Skydive Logbook"
 date: 2016-06-02
---7
+---
 
 So its been a little while since I past put up a post (wishful thinking keeping on top of this!)
 
