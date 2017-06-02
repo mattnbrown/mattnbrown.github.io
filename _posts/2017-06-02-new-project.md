@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Project! Skydive Logbook"
-date: 2016-06-02
+date: 2017-06-02
 ---
 
 So its been a little while since I past put up a post (wishful thinking keeping on top of this!)
